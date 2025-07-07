@@ -28,7 +28,7 @@ if selection == "Professional Summary":
 
 elif selection == "Skills":
     st.header("Technical Skills")
-    st.text("Programming Languages: Python programming")
+    st.write("Programming Languages: Python programming")
     st.write("Basic Data structures and algorithms")
     st.write("Internet of Things")
     st.write("Basic Artifical intellience")
